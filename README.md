@@ -1,9 +1,9 @@
-**Name:** Odulapalli Hitesh
-**Company:** CODETECH IT SOLUTIONS
-**ID:**
-**Domain:**
-**Duration:**
-**Mentor:**
+**Name:** Odulapalli Hitesh  
+**Company:** CODETECH IT SOLUTIONS  
+**ID:**  
+**Domain:**  
+**Duration:**  
+**Mentor:**  
 
 # Overview of the Project
 ## Project: Exploratory Data Analysis (EDA) on RCB vs SRH IPL 2024 Match 30
