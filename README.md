@@ -1,8 +1,8 @@
 **Name:** Odulapalli Hitesh  
 **Company:** CODETECH IT SOLUTIONS  
-**ID:**  
-**Domain:**  
-**Duration:**  
+**ID:** CT08DS4579
+**Domain:** DATA SCIENCE  
+**Duration:** JULY10th, 2024 to AUGUST 10th, 2024 
 **Mentor:**  
 
 # Overview of the Project
