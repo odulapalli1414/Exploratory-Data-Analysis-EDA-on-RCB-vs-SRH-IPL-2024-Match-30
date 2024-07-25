@@ -1,9 +1,9 @@
 **Name:** Odulapalli Hitesh  
-**Company:** CODETECH IT SOLUTIONS  
-**ID:** CT08DS4579
-**Domain:** DATA SCIENCE  
-**Duration:** JULY10th, 2024 to AUGUST 10th, 2024 
-**Mentor:**  
+**Company:** CODETECH IT SOLUTIONS   
+**ID:** CT08DS4579 
+**Domain:** DATA SCIENCE   
+**Duration:** JULY10th, 2024 to AUGUST 10th, 2024  
+**Mentor:**   
 
 # Overview of the Project
 ## Project: Exploratory Data Analysis (EDA) on RCB vs SRH IPL 2024 Match 30
